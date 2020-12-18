@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	  <channel>
+      <title>El tiempo 24h</title>    
+      <link>https://www.eltiempo24.es</link>
+      <description>El tiempo 24 horas de España</description>
+    <item>
+        <title>El tiempo 24h Sevilla</title>    
+        <link>https://www.tiempo.es/sevilla-es2510910.html</link>
+        <description>El tiempo de Sevilla</description>
+    </item>
+      <item>
+        <title>El tiempo 24h Cordoba</title>    
+        <link>https://www.tiempo.es/cordoba-es2519239.html</link>
+        <description>El tiempo de Cordoba</description>
+    </item>
+  </channel>
+</rss>
